@@ -1,4 +1,4 @@
-- - 👋 Hi, I’m @ZaraFatima123
+- - 👋 Hi, I’m X
 - 👀 I’m interested in competitive programming, algorithm design, and software engineering.
 - 🌱 I’m currently learning advanced data structures, algorithms, and honing my problem-solving skills on LeetCode.
 - 💞️ I’m looking to collaborate on open-source projects related to algorithms, data structures, or web development.
