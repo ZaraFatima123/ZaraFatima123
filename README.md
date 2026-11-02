@@ -26,7 +26,7 @@
 
 ## 👩‍💻 About me
 
-I'm an **MCA student at Aligarh Muslim University (AMU), India**, and a graduate of the four-year **B.Sc. (Honours with Research) in Computer Applications** (**8.14/10 CGPA**).
+I'm am a graduate of the four-year **B.Sc. (Honours with Research) in Computer Applications** (**8.14/10 CGPA**).
 
 My interests sit at the intersection of **artificial intelligence, optimization, information retrieval, algorithms, and trustworthy systems**. I enjoy turning research questions into working implementations and reproducible experiments.
 
